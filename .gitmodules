@@ -3,8 +3,118 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AER"]
+	path = AER
+	url = https://github.com/cran/AER
+	shallow = true
+	registered = true
+[submodule "betareg"]
+	path = betareg
+	url = https://github.com/cran/betareg
+	shallow = true
+	registered = true
+[submodule "ctv"]
+	path = ctv
+	url = https://github.com/cran/ctv
+	shallow = true
+	registered = true
+[submodule "dynlm"]
+	path = dynlm
+	url = https://github.com/cran/dynlm
+	shallow = true
+	registered = true
+[submodule "exams"]
+	path = exams
+	url = https://github.com/cran/exams
+	shallow = true
+	registered = true
+[submodule "exams2learnr"]
+	path = exams2learnr
+	url = https://github.com/cran/exams2learnr
+	shallow = true
+	registered = true
+[submodule "Formula"]
+	path = Formula
+	url = https://github.com/cran/Formula
+	shallow = true
+	registered = true
+[submodule "fortunes"]
+	path = fortunes
+	url = https://github.com/cran/fortunes
+	shallow = true
+	registered = true
+[submodule "fxregime"]
+	path = fxregime
+	url = https://github.com/cran/fxregime
+	shallow = true
+	registered = true
+[submodule "glmx"]
+	path = glmx
+	url = https://github.com/cran/glmx
+	shallow = true
+	registered = true
+[submodule "glogis"]
+	path = glogis
+	url = https://github.com/cran/glogis
+	shallow = true
+	registered = true
+[submodule "ineq"]
+	path = ineq
+	url = https://github.com/cran/ineq
+	shallow = true
+	registered = true
 [submodule "ivreg"]
 	path = ivreg
 	url = https://github.com/zeileis/ivreg
+	shallow = true
+	registered = true
+[submodule "lagsarlmtree"]
+	path = lagsarlmtree
+	url = https://github.com/cran/lagsarlmtree
+	shallow = true
+	registered = true
+[submodule "lmtest"]
+	path = lmtest
+	url = https://github.com/cran/lmtest
+	shallow = true
+	registered = true
+[submodule "psychotools"]
+	path = psychotools
+	url = https://github.com/cran/psychotools
+	shallow = true
+	registered = true
+[submodule "psychotree"]
+	path = psychotree
+	url = https://github.com/cran/psychotree
+	shallow = true
+	registered = true
+[submodule "pwt"]
+	path = pwt
+	url = https://github.com/cran/pwt
+	shallow = true
+	registered = true
+[submodule "pwt10"]
+	path = pwt10
+	url = https://github.com/cran/pwt10
+	shallow = true
+	registered = true
+[submodule "pwt8"]
+	path = pwt8
+	url = https://github.com/cran/pwt8
+	shallow = true
+	registered = true
+[submodule "pwt9"]
+	path = pwt9
+	url = https://github.com/cran/pwt9
+	shallow = true
+	registered = true
+[submodule "stablelearner"]
+	path = stablelearner
+	url = https://github.com/cran/stablelearner
+	shallow = true
+	registered = true
+[submodule "strucchange"]
+	path = strucchange
+	url = https://github.com/cran/strucchange
 	shallow = true
 	registered = true
