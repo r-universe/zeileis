@@ -5,6 +5,9 @@
 [submodule "AER"]
 	path = AER
 	url = https://github.com/cran/AER
+[submodule "Formula"]
+	path = Formula
+	url = https://github.com/cran/Formula
 [submodule "betareg"]
 	path = betareg
 	url = https://github.com/cran/betareg
@@ -20,9 +23,6 @@
 [submodule "exams2learnr"]
 	path = exams2learnr
 	url = https://github.com/cran/exams2learnr
-[submodule "Formula"]
-	path = Formula
-	url = https://github.com/cran/Formula
 [submodule "fortunes"]
 	path = fortunes
 	url = https://github.com/cran/fortunes
