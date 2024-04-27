@@ -71,3 +71,6 @@
 [submodule "strucchange"]
 	path = strucchange
 	url = https://github.com/cran/strucchange
+[submodule "tth"]
+	path = tth
+	url = https://github.com/cran/tth
