@@ -47,6 +47,9 @@
 [submodule "lmtest"]
 	path = lmtest
 	url = https://github.com/cran/lmtest
+[submodule "pixmap"]
+	path = pixmap
+	url = https://github.com/cran/pixmap
 [submodule "psychotools"]
 	path = psychotools
 	url = https://github.com/cran/psychotools
