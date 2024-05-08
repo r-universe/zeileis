@@ -2,10 +2,26 @@
 	path = .registry
 	url = https://github.com/zeileis/zeileis.r-universe.dev
 	branch = HEAD
+[submodule "betareg"]
+	path = betareg
+	url = https://github.com/r-forge/betareg
+	subdir = pkg
+[submodule "brtobit"]
+	path = brtobit
+	url = https://github.com/r-forge/topmodels
+	subdir = pkg/brtobit
+[submodule "c403"]
+	path = c403
+	url = https://github.com/r-forge/exams
+	subdir = pkg/c403
 [submodule "countreg"]
 	path = countreg
 	url = https://github.com/r-forge/countreg
 	subdir = pkg
+[submodule "crch"]
+	path = crch
+	url = https://github.com/r-forge/topmodels
+	subdir = pkg/crch
 [submodule "distributions3"]
 	path = distributions3
 	url = https://github.com/alexpghayes/distributions3
@@ -13,6 +29,14 @@
 	path = exams
 	url = https://github.com/r-forge/exams
 	subdir = pkg/exams
+[submodule "exams2forms"]
+	path = exams2forms
+	url = https://github.com/r-forge/exams
+	subdir = pkg/exams2forms
+[submodule "sandwich"]
+	path = sandwich
+	url = https://github.com/r-forge/sandwich
+	subdir = pkg
 [submodule "topmodels"]
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
