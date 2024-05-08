@@ -1,79 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/zeileis/zeileis.r-universe.dev
 	branch = HEAD
-[submodule "AER"]
-	path = AER
-	url = https://github.com/cran/AER
-[submodule "Formula"]
-	path = Formula
-	url = https://github.com/cran/Formula
-[submodule "betareg"]
-	path = betareg
-	url = https://github.com/cran/betareg
-[submodule "ctv"]
-	path = ctv
-	url = https://github.com/cran/ctv
-[submodule "dynlm"]
-	path = dynlm
-	url = https://github.com/cran/dynlm
+[submodule "countreg"]
+	path = countreg
+	url = https://github.com/r-forge/countreg
 [submodule "exams"]
 	path = exams
-	url = https://github.com/cran/exams
-[submodule "exams2learnr"]
-	path = exams2learnr
-	url = https://github.com/cran/exams2learnr
-[submodule "fortunes"]
-	path = fortunes
-	url = https://github.com/cran/fortunes
-[submodule "fxregime"]
-	path = fxregime
-	url = https://github.com/cran/fxregime
-[submodule "glmx"]
-	path = glmx
-	url = https://github.com/cran/glmx
-[submodule "glogis"]
-	path = glogis
-	url = https://github.com/cran/glogis
-[submodule "ineq"]
-	path = ineq
-	url = https://github.com/cran/ineq
-[submodule "ivreg"]
-	path = ivreg
-	url = https://github.com/zeileis/ivreg
-[submodule "lagsarlmtree"]
-	path = lagsarlmtree
-	url = https://github.com/cran/lagsarlmtree
-[submodule "lmtest"]
-	path = lmtest
-	url = https://github.com/cran/lmtest
-[submodule "pixmap"]
-	path = pixmap
-	url = https://github.com/cran/pixmap
-[submodule "psychotools"]
-	path = psychotools
-	url = https://github.com/cran/psychotools
-[submodule "psychotree"]
-	path = psychotree
-	url = https://github.com/cran/psychotree
-[submodule "pwt"]
-	path = pwt
-	url = https://github.com/cran/pwt
-[submodule "pwt10"]
-	path = pwt10
-	url = https://github.com/cran/pwt10
-[submodule "pwt8"]
-	path = pwt8
-	url = https://github.com/cran/pwt8
-[submodule "pwt9"]
-	path = pwt9
-	url = https://github.com/cran/pwt9
-[submodule "stablelearner"]
-	path = stablelearner
-	url = https://github.com/cran/stablelearner
-[submodule "strucchange"]
-	path = strucchange
-	url = https://github.com/cran/strucchange
-[submodule "tth"]
-	path = tth
-	url = https://github.com/cran/tth
+	url = https://github.com/r-forge/exams/pkg/exams
+[submodule "topmodels"]
+	path = topmodels
+	url = https://github.com/r-forge/topmodels/pkg/topmodels
