@@ -5,9 +5,15 @@
 [submodule "countreg"]
 	path = countreg
 	url = https://github.com/r-forge/countreg
+	subdir = pkg
+[submodule "distributions3"]
+	path = distributions3
+	url = https://github.com/alexpghayes/distributions3
 [submodule "exams"]
 	path = exams
-	url = https://github.com/r-forge/exams/pkg/exams
+	url = https://github.com/r-forge/exams
+	subdir = pkg/exams
 [submodule "topmodels"]
 	path = topmodels
-	url = https://github.com/r-forge/topmodels/pkg/topmodels
+	url = https://github.com/r-forge/topmodels
+	subdir = pkg/topmodels
