@@ -14,6 +14,10 @@
 	path = c403
 	url = https://github.com/r-forge/exams
 	subdir = pkg/c403
+[submodule "colorspace"]
+	path = colorspace
+	url = https://github.com/r-forge/colorspace
+	subdir = pkg/colorspace
 [submodule "countreg"]
 	path = countreg
 	url = https://github.com/r-forge/countreg
@@ -41,3 +45,7 @@
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
 	subdir = pkg/topmodels
+[submodule "zoo"]
+	path = zoo
+	url = https://github.com/r-forge/zoo
+	subdir = pkg/zoo
