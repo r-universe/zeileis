@@ -37,6 +37,9 @@
 	path = exams2forms
 	url = https://github.com/r-forge/exams
 	subdir = pkg/exams2forms
+[submodule "ivreg"]
+	path = ivreg
+	url = https://github.com/zeileis/ivreg
 [submodule "sandwich"]
 	path = sandwich
 	url = https://github.com/r-forge/sandwich
