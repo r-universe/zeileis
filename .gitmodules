@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/zeileis/zeileis.r-universe.dev
 	branch = HEAD
+[submodule "RainTyrol"]
+	path = RainTyrol
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/RainTyrol
 [submodule "betareg"]
 	path = betareg
 	url = https://github.com/r-forge/betareg
@@ -14,10 +18,10 @@
 	path = c403
 	url = https://github.com/r-forge/exams
 	subdir = pkg/c403
-[submodule "colorspace"]
-	path = colorspace
-	url = https://github.com/r-forge/colorspace
-	subdir = pkg/colorspace
+[submodule "circtree"]
+	path = circtree
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/circtree
 [submodule "countreg"]
 	path = countreg
 	url = https://github.com/r-forge/countreg
@@ -29,6 +33,14 @@
 [submodule "distributions3"]
 	path = distributions3
 	url = https://github.com/alexpghayes/distributions3
+[submodule "disttree"]
+	path = disttree
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/disttree
+[submodule "evtree"]
+	path = evtree
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/evtree
 [submodule "exams"]
 	path = exams
 	url = https://github.com/r-forge/exams
@@ -37,18 +49,30 @@
 	path = exams2forms
 	url = https://github.com/r-forge/exams
 	subdir = pkg/exams2forms
+[submodule "glmertree"]
+	path = glmertree
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/glmertree
 [submodule "ivreg"]
 	path = ivreg
 	url = https://github.com/zeileis/ivreg
-[submodule "sandwich"]
-	path = sandwich
-	url = https://github.com/r-forge/sandwich
-	subdir = pkg
+[submodule "lagsarlmtree"]
+	path = lagsarlmtree
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/lagsarlmtree
+[submodule "model4you"]
+	path = model4you
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/model4you
+[submodule "palmtree"]
+	path = palmtree
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/palmtree
+[submodule "partykit"]
+	path = partykit
+	url = https://github.com/r-forge/partykit
+	subdir = pkg/partykit
 [submodule "topmodels"]
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
 	subdir = pkg/topmodels
-[submodule "zoo"]
-	path = zoo
-	url = https://github.com/r-forge/zoo
-	subdir = pkg/zoo
