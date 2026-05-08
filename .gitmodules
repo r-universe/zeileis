@@ -31,7 +31,7 @@
 	subdir = pkg/crch
 [submodule "distributions3"]
 	path = distributions3
-	url = https://github.com/alexpghayes/distributions3
+	url = https://github.com/zeileis/distributions3
 [submodule "disttree"]
 	path = disttree
 	url = https://github.com/r-forge/partykit
