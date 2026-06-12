@@ -51,6 +51,9 @@
 	path = glmertree
 	url = https://github.com/r-forge/partykit
 	subdir = pkg/glmertree
+[submodule "glmx"]
+	path = glmx
+	url = https://codeberg.org/zeileis/glmx
 [submodule "ivreg"]
 	path = ivreg
 	url = https://github.com/zeileis/ivreg
