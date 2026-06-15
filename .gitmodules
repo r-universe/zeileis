@@ -54,6 +54,9 @@
 [submodule "glmx"]
 	path = glmx
 	url = https://codeberg.org/zeileis/glmx
+[submodule "glogis"]
+	path = glogis
+	url = https://codeberg.org/zeileis/glogis
 [submodule "ivreg"]
 	path = ivreg
 	url = https://github.com/zeileis/ivreg
