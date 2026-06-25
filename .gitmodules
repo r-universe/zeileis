@@ -47,6 +47,9 @@
 [submodule "exams2forms"]
 	path = exams2forms
 	url = https://codeberg.org/zeileis/exams2forms
+[submodule "fortunes"]
+	path = fortunes
+	url = https://codeberg.org/zeileis/fortunes
 [submodule "glmertree"]
 	path = glmertree
 	url = https://github.com/r-forge/partykit
