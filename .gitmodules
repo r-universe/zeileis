@@ -29,6 +29,9 @@
 	path = crch
 	url = https://github.com/r-forge/topmodels
 	subdir = pkg/crch
+[submodule "ctv"]
+	path = ctv
+	url = https://codeberg.org/zeileis/ctv
 [submodule "distributions3"]
 	path = distributions3
 	url = https://github.com/zeileis/distributions3
