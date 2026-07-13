@@ -21,6 +21,9 @@
 	path = circtree
 	url = https://github.com/r-forge/partykit
 	subdir = pkg/circtree
+[submodule "colorspace"]
+	path = colorspace
+	url = https://codeberg.org/zeileis/colorspace
 [submodule "countreg"]
 	path = countreg
 	url = https://github.com/r-forge/countreg
@@ -32,6 +35,9 @@
 [submodule "ctv"]
 	path = ctv
 	url = https://codeberg.org/zeileis/ctv
+[submodule "dichromat"]
+	path = dichromat
+	url = https://codeberg.org/zeileis/dichromat
 [submodule "distributions3"]
 	path = distributions3
 	url = https://github.com/zeileis/distributions3
