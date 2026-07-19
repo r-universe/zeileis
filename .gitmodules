@@ -92,3 +92,9 @@
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
 	subdir = pkg/topmodels
+[submodule "zoo"]
+	path = zoo
+	url = https://codeberg.org/zeileis/zoo
+[submodule "zooExtra"]
+	path = zooExtra
+	url = https://codeberg.org/zeileis/zooExtra
