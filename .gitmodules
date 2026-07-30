@@ -88,6 +88,9 @@
 	path = partykit
 	url = https://github.com/r-forge/partykit
 	subdir = pkg/partykit
+[submodule "stablelearner"]
+	path = stablelearner
+	url = https://codeberg.org/zeileis/stablelearner
 [submodule "topmodels"]
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
