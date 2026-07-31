@@ -51,8 +51,7 @@
 	subdir = pkg/evtree
 [submodule "exams"]
 	path = exams
-	url = https://github.com/r-forge/exams
-	subdir = pkg/exams
+	url = https://codeberg.org/zeileis/exams
 [submodule "exams2forms"]
 	path = exams2forms
 	url = https://codeberg.org/zeileis/exams2forms
@@ -98,6 +97,9 @@
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
 	subdir = pkg/topmodels
+[submodule "tth"]
+	path = tth
+	url = https://codeberg.org/zeileis/tth
 [submodule "zoo"]
 	path = zoo
 	url = https://codeberg.org/zeileis/zoo
