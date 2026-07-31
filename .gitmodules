@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "RainTyrol"]
 	path = RainTyrol
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/RainTyrol
 [submodule "betareg"]
 	path = betareg
@@ -19,7 +19,7 @@
 	url = https://codeberg.org/zeileis/c403
 [submodule "circtree"]
 	path = circtree
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/circtree
 [submodule "colorspace"]
 	path = colorspace
@@ -43,11 +43,11 @@
 	url = https://github.com/zeileis/distributions3
 [submodule "disttree"]
 	path = disttree
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/disttree
 [submodule "evtree"]
 	path = evtree
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/evtree
 [submodule "exams"]
 	path = exams
@@ -56,12 +56,15 @@
 [submodule "exams2forms"]
 	path = exams2forms
 	url = https://codeberg.org/zeileis/exams2forms
+[submodule "exams2learnr"]
+	path = exams2learnr
+	url = https://codeberg.org/zeileis/exams2learnr
 [submodule "fortunes"]
 	path = fortunes
 	url = https://codeberg.org/zeileis/fortunes
 [submodule "glmertree"]
 	path = glmertree
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/glmertree
 [submodule "glmx"]
 	path = glmx
@@ -74,19 +77,19 @@
 	url = https://github.com/zeileis/ivreg
 [submodule "lagsarlmtree"]
 	path = lagsarlmtree
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/lagsarlmtree
 [submodule "model4you"]
 	path = model4you
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/model4you
 [submodule "palmtree"]
 	path = palmtree
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/palmtree
 [submodule "partykit"]
 	path = partykit
-	url = https://github.com/r-forge/partykit
+	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/partykit
 [submodule "stablelearner"]
 	path = stablelearner
