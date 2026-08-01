@@ -64,6 +64,9 @@
 [submodule "fortunes"]
 	path = fortunes
 	url = https://codeberg.org/zeileis/fortunes
+[submodule "fxregime"]
+	path = fxregime
+	url = https://codeberg.org/zeileis/fxregime
 [submodule "glmertree"]
 	path = glmertree
 	url = https://codeberg.org/thothorn/partykit
