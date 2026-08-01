@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/zeileis/zeileis.r-universe.dev
 	branch = HEAD
+[submodule "Formula"]
+	path = Formula
+	url = https://codeberg.org/zeileis/Formula
 [submodule "RainTyrol"]
 	path = RainTyrol
 	url = https://codeberg.org/thothorn/partykit
