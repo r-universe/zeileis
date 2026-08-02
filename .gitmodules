@@ -105,6 +105,9 @@
 [submodule "stablelearner"]
 	path = stablelearner
 	url = https://codeberg.org/zeileis/stablelearner
+[submodule "strucchange"]
+	path = strucchange
+	url = https://codeberg.org/zeileis/strucchange
 [submodule "strucchangeArmadillo"]
 	path = strucchangeArmadillo
 	url = https://codeberg.org/zeileis/strucchangeArmadillo
