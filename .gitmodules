@@ -96,6 +96,9 @@
 	path = partykit
 	url = https://codeberg.org/thothorn/partykit
 	subdir = pkg/partykit
+[submodule "psychotree"]
+	path = psychotree
+	url = https://codeberg.org/zeileis/psychotree
 [submodule "stablelearner"]
 	path = stablelearner
 	url = https://codeberg.org/zeileis/stablelearner
