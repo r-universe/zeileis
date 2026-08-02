@@ -105,6 +105,9 @@
 [submodule "stablelearner"]
 	path = stablelearner
 	url = https://codeberg.org/zeileis/stablelearner
+[submodule "strucchangeArmadillo"]
+	path = strucchangeArmadillo
+	url = https://codeberg.org/zeileis/strucchangeArmadillo
 [submodule "topmodels"]
 	path = topmodels
 	url = https://github.com/r-forge/topmodels
