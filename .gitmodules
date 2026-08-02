@@ -99,6 +99,9 @@
 [submodule "psychotree"]
 	path = psychotree
 	url = https://codeberg.org/zeileis/psychotree
+[submodule "sandwich"]
+	path = sandwich
+	url = https://codeberg.org/zeileis/sandwich
 [submodule "stablelearner"]
 	path = stablelearner
 	url = https://codeberg.org/zeileis/stablelearner
