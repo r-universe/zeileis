@@ -11,8 +11,7 @@
 	subdir = pkg/RainTyrol
 [submodule "betareg"]
 	path = betareg
-	url = https://github.com/r-forge/betareg
-	subdir = pkg
+	url = https://codeberg.org/zeileis/betareg
 [submodule "brtobit"]
 	path = brtobit
 	url = https://github.com/r-forge/topmodels
