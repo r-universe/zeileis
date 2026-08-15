@@ -14,8 +14,7 @@
 	url = https://codeberg.org/zeileis/betareg
 [submodule "brtobit"]
 	path = brtobit
-	url = https://github.com/r-forge/topmodels
-	subdir = pkg/brtobit
+	url = https://codeberg.org/zeileis/brtobit
 [submodule "c403"]
 	path = c403
 	url = https://codeberg.org/zeileis/c403
@@ -28,12 +27,10 @@
 	url = https://codeberg.org/zeileis/colorspace
 [submodule "countreg"]
 	path = countreg
-	url = https://github.com/r-forge/countreg
-	subdir = pkg
+	url = https://codeberg.org/zeileis/countreg
 [submodule "crch"]
 	path = crch
-	url = https://github.com/r-forge/topmodels
-	subdir = pkg/crch
+	url = https://codeberg.org/zeileis/crch
 [submodule "ctv"]
 	path = ctv
 	url = https://codeberg.org/zeileis/ctv
@@ -112,8 +109,7 @@
 	url = https://codeberg.org/zeileis/strucchangeArmadillo
 [submodule "topmodels"]
 	path = topmodels
-	url = https://github.com/r-forge/topmodels
-	subdir = pkg/topmodels
+	url = https://codeberg.org/zeileis/topmodels
 [submodule "tth"]
 	path = tth
 	url = https://codeberg.org/zeileis/tth
