@@ -18,6 +18,9 @@
 [submodule "c403"]
 	path = c403
 	url = https://codeberg.org/zeileis/c403
+[submodule "chaid"]
+	path = chaid
+	url = https://codeberg.org/zeileis/chaid
 [submodule "circtree"]
 	path = circtree
 	url = https://codeberg.org/thothorn/partykit
