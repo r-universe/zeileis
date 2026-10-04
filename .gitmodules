@@ -113,6 +113,9 @@
 [submodule "topmodels"]
 	path = topmodels
 	url = https://codeberg.org/zeileis/topmodels
+[submodule "truncreg"]
+	path = truncreg
+	url = https://codeberg.org/zeileis/truncreg
 [submodule "tth"]
 	path = tth
 	url = https://codeberg.org/zeileis/tth
