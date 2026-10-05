@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/zeileis/zeileis.r-universe.dev
 	branch = HEAD
+[submodule "FlashAustria"]
+	path = FlashAustria
+	url = https://codeberg.org/zeileis/FlashAustria
 [submodule "Formula"]
 	path = Formula
 	url = https://codeberg.org/zeileis/Formula
