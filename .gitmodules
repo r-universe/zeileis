@@ -82,6 +82,9 @@
 [submodule "ivreg"]
 	path = ivreg
 	url = https://github.com/zeileis/ivreg
+[submodule "jss"]
+	path = jss
+	url = https://codeberg.org/zeileis/jss
 [submodule "lagsarlmtree"]
 	path = lagsarlmtree
 	url = https://codeberg.org/thothorn/partykit
