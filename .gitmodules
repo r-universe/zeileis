@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/zeileis/zeileis.r-universe.dev
 	branch = HEAD
+[submodule "DistrFree"]
+	path = DistrFree
+	url = https://codeberg.org/Thymore/DistrFree
 [submodule "FlashAustria"]
 	path = FlashAustria
 	url = https://codeberg.org/zeileis/FlashAustria
